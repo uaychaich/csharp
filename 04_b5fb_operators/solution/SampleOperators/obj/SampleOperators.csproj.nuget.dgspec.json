@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\SampleVariables.csproj": {}
+    "C:\\csharp_language\\04_b5fb_operators\\solution\\SampleOperators\\SampleOperators.csproj": {}
   },
   "projects": {
-    "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\SampleVariables.csproj": {
+    "C:\\csharp_language\\04_b5fb_operators\\solution\\SampleOperators\\SampleOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\SampleVariables.csproj",
-        "projectName": "SampleVariables",
-        "projectPath": "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\SampleVariables.csproj",
+        "projectUniqueName": "C:\\csharp_language\\04_b5fb_operators\\solution\\SampleOperators\\SampleOperators.csproj",
+        "projectName": "SampleOperators",
+        "projectPath": "C:\\csharp_language\\04_b5fb_operators\\solution\\SampleOperators\\SampleOperators.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\obj\\",
+        "outputPath": "C:\\csharp_language\\04_b5fb_operators\\solution\\SampleOperators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

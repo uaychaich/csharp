@@ -42,3 +42,6 @@ t1 = t2;
 
 //null
 int? q1 = null;
+
+//Declare variable with no type
+var s1 = "Uaychai";
