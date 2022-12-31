@@ -36,3 +36,25 @@ var d2 = false;
 var d3 = d1 && d2; Console.WriteLine(d3);
 var d4 = d1 || d2; Console.WriteLine(d4);
 var d5 = !d1; Console.WriteLine(d5);
+
+//Check and Assignment
+var e1 = 2;
+var e2 = e1 >3 ? "More than three" : "No more than three";
+Console.WriteLine(e2);
+
+//Check null and Assignment
+int? f1 = null;
+int f2 = f1 ?? 20; Console.WriteLine(f2);
+f1 ??= 5; Console.WriteLine(f1);
+
+//Check type and null
+var g1 = 20;
+int? g2 = null;
+Console.WriteLine(g1 is string);
+Console.WriteLine(g2 is not null);
+
+//String Helper
+var h1 = "c:\\yoda\\uaychai.txt"; Console.WriteLine(h1);
+var h2 = @"c:\yoda\uaychai.txt"; Console.WriteLine(h2);
+var h3 = "This is the result: " + h1 + " " + h2; Console.WriteLine(h3);
+var h4 = $"This is the result: {h1} {h2}"; Console.WriteLine(h4);
