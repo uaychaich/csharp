@@ -1,6 +1,6 @@
 ﻿/*
     Author: Uaychai Chotjaratwanich
-    Modified Date: 2022-12-30
+    Modified Date: 2022-12-31
 */
 //Arithmetic operators
 var a1 = 7.5; 

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SampleOperators
-build_property.ProjectDir = C:\csharp_language\04_b5fb_operators\solution\SampleOperators\
+build_property.ProjectDir = c:\csharp_language\04_b5fb_operators\solution\SampleOperators\
