@@ -1,6 +1,6 @@
 ﻿/*
     Author: Uaychai Chotjaratwanich
-    Modified Date: 2022-12-31
+    Modified Date: 2023-01-01
 */
 //Declare Variable and Assignment Statement
 int a,b,c;
@@ -62,3 +62,9 @@ int[,] j2 = new int[,] {{10,20},{30,40}};
 int[][] k1 = new int[2][];
 k1[0] = new int[2]; k1[0][0] = 10; k1[0][1] = 20;
 k1[1] = new int[] {30,40,50};
+
+//Console Readline
+string input;
+Console.Write("Please Input: ");
+input = Console.ReadLine();
+Console.WriteLine(input);
