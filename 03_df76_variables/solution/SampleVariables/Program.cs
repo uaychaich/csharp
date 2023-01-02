@@ -39,6 +39,8 @@ string e1 = "Uaychai";
 long f1 = 20;
 short f2 = 50;
 f1 = f2;
+f2 = (short)f1;
+f2 = short.Parse("50");
 
 //null
 int? g1 = null;
