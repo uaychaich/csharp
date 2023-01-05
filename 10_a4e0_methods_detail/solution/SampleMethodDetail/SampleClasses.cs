@@ -11,6 +11,9 @@ public class SampleClassMethod
     {output1=6;}
 
     public void method3(params int[] inputlist){}
+
+    public int method4()
+    {return 5;}
 }
 
 
