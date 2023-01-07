@@ -27,9 +27,26 @@ public class Class2
     public int _Data2;
     public int Data2a{set=>_Data2=value; get=>_Data2;}
     public virtual int Data2b{set=>_Data2=value; get=>_Data2;}
-    public int Method2a()=>Data2;
-    public virtual int Method2b()=>Data2;
-    public int Method2c()=>Data2;
-    public Class2(){Data2=100;}
-    public Class2(int inputdata2){Data2=inputdata2;}
+    public int Method2a()=>_Data2;
+    public virtual int Method2b()=>_Data2;
+    public int Method2c()=>_Data2;
+    public Class2(){_Data2=100;}
+    public Class2(int inputdata2){_Data2=inputdata2;}
+}
+
+public class Class2_1:Class2
+{
+    new public int _Data2;
+    public override int Data2b { get => base._Data2; set => base._Data2 = value; }
+    public sealed override int Method2b()
+    {
+        return base._Data2;
+    }
+    public Class2_1():base(){_Data2=200;}
+    public Class2_1(int inputdata2):base(){_Data2=inputdata2;}
+}
+
+public class Class2_1_1:Class2_1
+{
+    new public int Method2b(){return 5;}
 }
