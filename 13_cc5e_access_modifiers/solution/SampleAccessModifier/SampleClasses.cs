@@ -26,3 +26,9 @@ public class SampleClass1_1: SampleClass1
     public SampleClass1_1(){Data1=1000;Data3=3000;}
     public SampleClass1_1(int inputData1,int inputData3){Data1=inputData1;Data3=inputData3;}
 }
+
+public class SampleClass1_2: SampleClass1
+{
+    private SampleClass1_2(){}
+    public SampleClass1_2(int inputData1,int inputData3){Data1=inputData1;Data3=inputData3;}
+}
