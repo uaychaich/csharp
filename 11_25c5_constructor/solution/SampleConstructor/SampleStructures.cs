@@ -18,14 +18,14 @@ public class SampleStructure
 public class PeopleStructure
 {
     //field
-    public string _FirstName, _LastName;
+    public string _FirstName="", _LastName="";
     //property
     public string FirstName{set=>_FirstName = value; get=>_FirstName;}
     public string LastName{set=>_LastName = value;get=>_LastName;}
     //method
     public void WriteLog(string log){/*Write log in database*/}
     //constructor
-    public PeopleStructure(){FirstName="Jon";LastName="Dow";WriteLog("Jon Dow is created");}
+    public PeopleStructure(){_FirstName="Jon";_LastName="Dow";WriteLog("Jon Dow is created");}
     public PeopleStructure(string inputFirstName, string inputLastName)
     {FirstName=inputFirstName;LastName=inputLastName;WriteLog($"{FirstName} {LastName} is created");}
 }

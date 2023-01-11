@@ -22,7 +22,7 @@ public class SampleClassMethod
 public class PeopleClass
 {
     //field
-    public string _FirstName, _LastName;
+    public string _FirstName="", _LastName="";
     public double _Height;
     
     //property

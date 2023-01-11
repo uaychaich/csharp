@@ -6,7 +6,7 @@ using System;
 public class PeopleClass
 {
     //field
-    public string _FirstName, _LastName, _MiddleName;
+    public string _FirstName="", _LastName="", _MiddleName="";
     public double _Income;
 
     //property

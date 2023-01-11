@@ -21,7 +21,7 @@ public class SampleStructureMethod
 public class PeopleStructure
 {
     //field
-    public string _FirstName, _LastName;
+    public string _FirstName="", _LastName="";
     public double _Height;
     
     //property

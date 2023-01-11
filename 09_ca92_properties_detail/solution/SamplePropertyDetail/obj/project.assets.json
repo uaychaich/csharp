@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\csharp_language\\09_ca92_properties_detail\\solution\\SamplePropertyDetail\\SamplePropertyDetail.csproj",
+      "projectUniqueName": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
       "projectName": "SamplePropertyDetail",
-      "projectPath": "C:\\csharp_language\\09_ca92_properties_detail\\solution\\SamplePropertyDetail\\SamplePropertyDetail.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\csharp_language\\09_ca92_properties_detail\\solution\\SamplePropertyDetail\\obj\\",
+      "projectPath": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.101/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
