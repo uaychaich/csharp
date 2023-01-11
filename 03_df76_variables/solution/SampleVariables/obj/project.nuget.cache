@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzF8XmQ2+3OJ4r9lKr1gFhKqJLgeJYSD8euiFLkgiyUq+mZGaP/0tM72NyrHvrwWfLMcHB8W1RtFCSru3kH3LA==",
+  "dgSpecHash": "iucK3aL+/36O4oP0ZCCnqhsmwpxi0WZYW6YlCMjaEtt2JvTGI9M8fsuZ7wacINbnAjgQJ2xVjEIzflohfROyTw==",
   "success": true,
-  "projectFilePath": "C:\\csharp_language\\03_df76_variables\\solution\\SampleVariables\\SampleVariables.csproj",
+  "projectFilePath": "/workspaces/csharp_language/03_df76_variables/solution/SampleVariables/SampleVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

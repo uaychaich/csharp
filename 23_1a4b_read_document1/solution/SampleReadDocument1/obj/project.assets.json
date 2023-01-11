@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/csharp_language/03_df76_variables/solution/SampleVariables/SampleVariables.csproj",
-      "projectName": "SampleVariables",
-      "projectPath": "/workspaces/csharp_language/03_df76_variables/solution/SampleVariables/SampleVariables.csproj",
+      "projectUniqueName": "/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/SampleReadDocument1.csproj",
+      "projectName": "SampleReadDocument1",
+      "projectPath": "/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/SampleReadDocument1.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/csharp_language/03_df76_variables/solution/SampleVariables/obj/",
+      "outputPath": "/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

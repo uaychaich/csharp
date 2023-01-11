@@ -65,6 +65,9 @@ int[][] k1 = new int[2][];
 k1[0] = new int[2]; k1[0][0] = 10; k1[0][1] = 20;
 k1[1] = new int[] {30,40,50};
 
+//Constant
+const int l1 = 200;
+
 //Console Readline
 string input;
 Console.Write("Please Input: ");
